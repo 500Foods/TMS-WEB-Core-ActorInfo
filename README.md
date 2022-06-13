@@ -6,9 +6,9 @@ This repository contains the complete Delphi source code for an example of using
 
 ## Contents
 
-**ActorInfo** contains the TMS XData server code. This is used to query WikiData and TMDb.org for information about birthdays and actor roles, respectively, and includes examples of how to cache requests, parse reasonably sane JSON data, and various other little tips and tricks.
+**ActorInfo** contains the TMS XData server code. This is used to query WikiData and TMDb.org for information about birthdays and actor roles, respectively, and includes examples of how to cache requests, parse reasonably sane JSON data, and various other little tips and tricks. Note that ActorInfo also requires the latest OpenSSL libraries.  Please refer to the source code for more information.
 
-**TabulatorDemo** contains the TMS WEB Core client application that connects to ActorInfo to get its data.  It also relies on FlatPickr to provide the date-time UI and Tabulator for the grid components.  
+**TabulatorDemo** contains the TMS WEB Core client application that connects to ActorInfo to get its data.  It also relies on FlatPickr to provide the date-time UI and Tabulator for the grid components. Only the project files are included here, so be mindful of those dependencies, and also that Bootstrap 5 is used.
 
 &nbsp;
 
