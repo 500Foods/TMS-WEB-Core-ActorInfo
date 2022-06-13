@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.756,C:\Users\Andrew Simard\Documents\Embarcadero\Studio\Projects\ActorInfo\Project1.dproj=C:\Users\Andrew Simard\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.379,C:\Users\Andrew Simard\Documents\Embarcadero\Studio\Projects\ActorInfo\Unit2.dfm=C:\Users\Andrew Simard\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.082,=C:\Users\Andrew Simard\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.575,=C:\Users\Andrew Simard\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.379,C:\Users\Andrew Simard\Documents\Embarcadero\Studio\Projects\ActorInfo\Unit2.pas=C:\Users\Andrew Simard\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.767,=C:\Users\Andrew Simard\Documents\Embarcadero\Studio\Projects\ActorInfo\ActorInfoServiceImplementation.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.221,C:\Users\Andrew Simard\Documents\Embarcadero\Studio\Projects\ActorInfo\Unit1.pas=C:\Users\Andrew Simard\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.221,C:\Users\Andrew Simard\Documents\Embarcadero\Studio\Projects\ActorInfo\Unit1.dfm=C:\Users\Andrew Simard\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.728,=C:\Users\Andrew Simard\Documents\Embarcadero\Studio\Projects\ActorInfo\ActorInfoService.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="ActorInfoService.pas"/>
+    <File Path="ActorInfoServiceImplementation.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
