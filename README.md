@@ -4,7 +4,7 @@ This repository contains the complete Delphi source code for an example of using
 
 ![ActorInfo](https://user-images.githubusercontent.com/41052272/173462502-bb6579c0-76ee-4e28-b172-6dfad7254d2e.gif)
 
-# Contents
+## Contents
 
 **ActorInfo** contains the TMS XData server code. This is used to query WikiData and TMDb.org for information about birthdays and actor roles, respectively, and includes examples of how to cache requests, parse reasonably sane JSON data, and various other little tips and tricks.
 
