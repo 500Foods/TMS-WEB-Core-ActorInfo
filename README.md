@@ -18,7 +18,6 @@ If you find this repository useful to your work, or that it has saved you time o
 - [JSExtend](https://github.com/500Foods/TMS-WEB-Core-JSExtend) 
 
 &nbsp;  
-
 Enjoy!
 
 Andrew Simard, Founder,  
