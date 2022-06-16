@@ -1,6 +1,6 @@
 # TMS-WEB-Core-ActorInfo
 
-This repository contains the complete Delphi source code for an example of using a TMS XData server and a TMS WEB Core application to create a simple interface to see all the actors that share a given birthday, along with information about their roles, popularity, and so on. This is a companion to a TMS Blog post first published on June 16, 2022.
+This repository contains the complete Delphi source code for an example of using a TMS XData server and a TMS WEB Core application to create a simple interface to see all the actors that share a given birthday, along with information about their roles, popularity, and so on. This is a companion to a [TMS Blog post](https://www.tmssoftware.com/site/blog.asp?post=949) first published on June 16, 2022.
 
 ![ActorInfo](https://user-images.githubusercontent.com/41052272/173462502-bb6579c0-76ee-4e28-b172-6dfad7254d2e.gif)
 
